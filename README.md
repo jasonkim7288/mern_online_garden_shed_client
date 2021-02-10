@@ -141,7 +141,7 @@ On day 12, we were onto the testing using a testing framework. We also added a u
 
 ## GitHub repository link
 
-Front End GitHub repository link: https://github.com/glowingmoth/online-garden-shed-client
+Front End GitHub repository link: https://github.com/jasonkim7288/mern_online_garden_shed_client
 
 Back End GitHub repository link: https://github.com/jasonkim7288/online-garden-shed-server
 
